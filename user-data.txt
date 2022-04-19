@@ -1,0 +1,10 @@
+{'first name': 'tarek', 'last_name': 'ali', 'email': 'ali@mail.com', 'password': '12345', 'mobile': '01066616129'}
+{'first name': 'ahmed', 'last_name': 'tarek', 'email': 'ahmed@mail.com', 'password': '123456', 'mobile': '01111111111'}
+{'first_name': 'hamada', 'last_name': 'hamada', 'email': 'hamada@mail.com', 'password': '12345', 'mobile': '01011122233'}
+{'first_name': 'ahned', 'last_name': 'ahmed', 'email': 'saasd@kmdsk.dcd', 'password': '12345', 'mobile': '01222222222'}
+{'first_name': 'asas', 'last_name': 'dfff', 'email': 'adsd@fffwe.sdfw', 'password': '123456', 'mobile': '01222222222'}
+{'first_name': 'adfsfas', 'last_name': 'afsdasfadf', 'email': 'asfas@asfa.sdfsd', 'password': '123456', 'mobile': '01533333333'}
+{'first_name': 'asdasdwq', 'last_name': 'qeddqwdqwd', 'email': 'efwe@qdw.we', 'password': '12345', 'mobile': '01222222222'}
+{'first_name': 'ali', 'last_name': 'ali', 'email': 'fwefwef@sfwefwe.wfe', 'password': '164484984', 'mobile': '01222222222'}
+{'first_name': 'loool', 'last_name': 'looool', 'email': 'loool@mail.com', 'password': '123456', 'mobile': '01022222222'}
+{'first_name': 'alii', 'last_name': 'tarek', 'email': 'ali@gmail.com', 'password': '123456', 'mobile': '01012345678'}
